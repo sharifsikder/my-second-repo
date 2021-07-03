@@ -6,3 +6,7 @@ h1{
     padding:20px 20px;
     margin-top:20px;
 }
+p{
+    color:white;
+    background-color:red;
+}
