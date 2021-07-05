@@ -51,7 +51,7 @@ body p,span,a{
 .content a{
     
     text-decoration: none;
-    padding:18px 27px;
+    padding:18px 30px;
     background-image:linear-gradient(#35d63b, #34a438);
     color:white;
     font-size: 22px;
@@ -68,4 +68,70 @@ body p,span,a{
 .images img{
     width:100%;
     text-align: right;
+}
+
+/* order section end */
+
+/* about section start */
+
+.about{
+
+    display:flex;
+    margin-bottom: 100px;
+    
+}
+
+.about-section{
+   background-image: url(images/shapes/7.png);
+   background-repeat: no-repeat;
+}
+
+.image-section{
+
+    width:50%;
+    text-align:left;
+    padding-top:60px;
+    padding-left: 150px;
+}
+
+.image-section img{
+
+    width:50%;
+    text-align: center;
+}
+
+.about-me{
+
+    width:50%;
+
+    padding-top: 100px;
+    
+}
+
+.about-me h2{
+       
+    font-size: 35px;
+    color:rgb(102, 102, 102)
+}
+
+.about-me p{
+
+    font-size: 18px;
+    color:rgb(73, 71, 71);
+    padding-right: 130px;
+    margin-bottom: 70px;
+}
+
+.about-me a{
+
+        text-decoration: none;
+        padding:18px 27px;
+        background-image:linear-gradient(#35d63b, #34a438);
+        color:white;
+        font-size: 22px;
+        font-weight: 500;
+        border-radius: 10px;
+      
+        box-shadow: 10px 10px 40px #35d63b;
+       
 }
