@@ -58,7 +58,7 @@ body p,span,a{
     font-weight: 500;
     border-radius: 30px;
   
-    box-shadow: 10px 10px 40px #35d63b;
+    box-shadow: 5px 5px 40px #35d63b;
 }
 .images{
     width:50%;
@@ -111,13 +111,13 @@ body p,span,a{
 .about-me h2{
        
     font-size: 35px;
-    color:rgb(102, 102, 102)
+    color:#787676;
 }
 
 .about-me p{
 
     font-size: 18px;
-    color:rgb(73, 71, 71);
+    color:rgb(110, 110, 110);
     padding-right: 130px;
     margin-bottom: 70px;
 }
@@ -130,9 +130,9 @@ body p,span,a{
         color:white;
         font-size: 22px;
         font-weight: 500;
-        border-radius: 10px;
+        border-radius: 30px;
       
-        box-shadow: 10px 10px 40px #35d63b;
+        box-shadow: 5px 5px 40px #35d63b;
        
 }
 
@@ -150,7 +150,7 @@ body p,span,a{
 
 .footer-section span{
 
-    color:#0af4d9;
+    color:#09f1e9;;
 }
 
 .footer-section p{
