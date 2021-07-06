@@ -58,7 +58,7 @@ body p,span,a{
     font-weight: 500;
     border-radius: 30px;
   
-    box-shadow: 5px 5px 40px #35d63b;
+    box-shadow: 3px 3px 30px #35d63b;
 }
 .images{
     width:50%;
@@ -77,7 +77,7 @@ body p,span,a{
 .about{
 
     display:flex;
-    margin-bottom: 100px;
+    margin-bottom: 70px;
     
 }
 
@@ -126,14 +126,93 @@ body p,span,a{
 
         text-decoration: none;
         padding:18px 27px;
-        background-image:linear-gradient(#35d63b, #34a438);
+        background-image:linear-gradient(#FD4D2F, #FC954B);
         color:white;
         font-size: 22px;
         font-weight: 500;
         border-radius: 30px;
       
-        box-shadow: 5px 5px 40px #35d63b;
+        box-shadow: 1px 1px 20px #FC954B;
        
+}
+
+/* about section end */
+
+/* My Recipies section start */
+
+.rescipies{
+    padding-bottom: 120px;
+}
+.my-recipies{
+margin-bottom: 40px;
+   
+}
+
+.my-recipies h1{
+ 
+    text-align: center;
+    color:gray;
+    font-size: 35px;
+}
+
+.my-recipies p{
+
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 18px;
+    color:rgb(99, 96, 96)
+}
+
+.recipies-item{
+    display: flex;
+}
+
+.recipies-item .item1{
+
+    width:30%;
+    box-shadow: 10px 10px 40px rgb(182, 182, 182);
+    padding:20px;
+    border-radius: 25px;
+    
+}
+
+.item-name h2{
+
+    font-size: 25px;
+    padding-top:15px;
+}
+.item-name p{
+
+    color:gray;
+    font-size: 18px;
+    line-height:1.7;
+}
+
+.recipies-item .item2{
+
+    width:30%;
+    margin-left: 4%;
+    box-shadow: 10px 10px 40px rgb(182, 182, 182);
+    padding:20px;
+    border-radius: 25px;
+}
+
+.recipies-item .item3{
+
+    width:30%;
+    box-shadow: 10px 10px 40px rgb(182, 182, 182);
+    margin-left: 4%;
+    padding:20px;
+    border-radius: 25px;
+   
+}
+
+.recipies-item img{
+
+    width:100%;
+    text-align: center;
+    
 }
 
 .footer-section{
