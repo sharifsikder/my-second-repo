@@ -171,7 +171,7 @@ margin-bottom: 40px;
 .recipies-item .item1{
 
     width:30%;
-    box-shadow: 10px 10px 40px rgb(182, 182, 182);
+    box-shadow: 10px 10px 40px rgb(182, 180, 180);
     padding:20px;
     border-radius: 25px;
     
@@ -195,7 +195,7 @@ margin-bottom: 40px;
 
     width:30%;
     margin-left: 4%;
-    box-shadow: 10px 10px 40px rgb(182, 182, 182);
+    box-shadow: 10px 10px 40px rgb(182, 180, 180);
     padding:20px;
     border-radius: 25px;
 }
@@ -203,7 +203,7 @@ margin-bottom: 40px;
 .recipies-item .item3{
 
     width:30%;
-    box-shadow: 10px 10px 40px rgb(182, 182, 182);
+    box-shadow: 10px 10px 40px rgb(182, 180, 180);
     margin-left: 4%;
     padding:20px;
     border-radius: 25px;
@@ -223,7 +223,7 @@ margin-bottom: 40px;
 
 .counter-section{
     display: flex;
-    box-shadow: 10px 10px 40px rgb(182, 182, 182);
+    box-shadow: 10px 10px 40px rgb(182, 180, 180);
     padding-top:40px;
     padding-bottom: 40px;
     border-radius: 25px;
